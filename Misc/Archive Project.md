@@ -1,6 +1,6 @@
 # Early Jarokn Link Dump
 
-[https://web.archive.org/web/20111114011351/http://jarokn.com/](https://web.archive.org/web/20111114011351/http://jarokn.com/ "https://web.archive.org/web/20111114011351/http://jarokn.com/") 
+- [https://web.archive.org/web/20111114011351/http://jarokn.com/](https://web.archive.org/web/20111114011351/http://jarokn.com/ "https://web.archive.org/web/20111114011351/http://jarokn.com/") 
 [https://web.archive.org/web/20180303225809/https://jarokn.tripod.com/index.html](https://web.archive.org/web/20180303225809/https://jarokn.tripod.com/index.html "https://web.archive.org/web/20180303225809/https://jarokn.tripod.com/index.html") 
 [https://jarokn.wordpress.com/](https://jarokn.wordpress.com/ "https://jarokn.wordpress.com/")
 [https://www.deviantart.com/jarokn](https://www.deviantart.com/jarokn "https://www.deviantart.com/jarokn") 

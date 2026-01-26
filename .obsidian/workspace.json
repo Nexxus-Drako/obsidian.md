@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f1670d78a32429e7",
+        "id": "e594c7611d4895a7",
         "type": "tabs",
         "children": [
           {
-            "id": "415b3cba0cf1ccd0",
+            "id": "83ce3b310c07d2d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,39 +21,8 @@
               "icon": "lucide-file",
               "title": "Archive Project"
             }
-          },
-          {
-            "id": "aa63a14baef99e2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "874be7861456a864",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NDG/NDG Minecraft Server Logs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "NDG Minecraft Server Logs"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,13 +95,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NDG/NDG Minecraft Server Logs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NDG Minecraft Server Logs"
+              "title": "Outline"
             }
           },
           {
@@ -203,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NDG/NDG Minecraft Server Logs.md",
+                "file": "Misc/Archive Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NDG Minecraft Server Logs"
+              "title": "Outgoing links from Archive Project"
             }
           },
           {
@@ -216,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "NDG/NDG Minecraft Server Logs.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -238,7 +204,6 @@
       "canvas:Create new canvas": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
@@ -246,18 +211,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a5b6d0ff4e3f462",
+  "active": "83ce3b310c07d2d8",
   "lastOpenFiles": [
-    "SEGA FC Champions.md",
-    "NDG/NDG Minecraft Server Logs.md",
-    "NDG",
-    "README.md",
     "Misc/Archive Project.md",
+    "Itavrnai/Assorted Itavran Verbiage.md",
+    "Itavrnai/Itavran Union of Sovereign Systems.md",
+    "NDG/NDG Minecraft Server Logs.md",
+    "README.md",
+    "SEGA FC Champions.md",
+    "NDG",
     "Misc",
     "Untitled.base",
-    "Itavrnai/Assorted Itavran Verbiage.md",
     "Tikal.md",
-    "Itavrnai/Itavran Union of Sovereign Systems.md",
     "Itavrnai",
     "Games That I Want To Play But Don't Exist.md",
     "03-01-2026 5pm.md",
