@@ -26,10 +26,15 @@
             "id": "d56cb57e17dc970d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2026-01-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-27"
             }
           }
         ],
@@ -182,11 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dailies/2026-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2026-01-27"
             }
           },
           {
@@ -223,6 +229,7 @@
   },
   "active": "d56cb57e17dc970d",
   "lastOpenFiles": [
+    "Dailies/2026-01-27.md",
     "Itavrnai/Itavran Chatlogs and Ramblings.md",
     "Itavrnai/Assorted Itavran Verbiage.md",
     "Itavrnai/Itavran Union of Sovereign Systems.md",
@@ -255,7 +262,6 @@
     "Prison Pad/5. Technology Sucks.md",
     "Prison Pad/4. Penance, continued.md",
     "Prison Pad/3. Penance.md",
-    "Prison Pad/2. Fallyn Angelys.md",
     "A",
     "Itavrnai - A 17776 Fanfic",
     "TEW IX Let's Play",
