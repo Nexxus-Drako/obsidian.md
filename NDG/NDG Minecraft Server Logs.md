@@ -1,2 +1,2 @@
-2026-01-27 06:00 - Created Minecraft Server
-2026-01-27 07:00 - Published Minecraft Server
+- 2026-01-27 06:00 - Created Minecraft Server
+- 2026-01-27 07:00 - Published Minecraft Server

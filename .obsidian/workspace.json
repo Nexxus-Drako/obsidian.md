@@ -13,16 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Archive Project.md",
+                "file": "Itavrnai/Assorted Itavran Verbiage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Archive Project"
+              "title": "Assorted Itavran Verbiage"
+            }
+          },
+          {
+            "id": "d56cb57e17dc970d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,12 +182,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Archive Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Archive Project"
+              "title": "Outgoing links"
             }
           },
           {
@@ -211,13 +221,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83ce3b310c07d2d8",
+  "active": "d56cb57e17dc970d",
   "lastOpenFiles": [
-    "Misc/Archive Project.md",
+    "Itavrnai/Itavran Chatlogs and Ramblings.md",
     "Itavrnai/Assorted Itavran Verbiage.md",
     "Itavrnai/Itavran Union of Sovereign Systems.md",
+    "Misc/Archive Project.md",
     "NDG/NDG Minecraft Server Logs.md",
     "README.md",
+    "Sevestra Rythorn.md",
+    "LICENSE.md",
     "SEGA FC Champions.md",
     "NDG",
     "Misc",
@@ -243,9 +256,6 @@
     "Prison Pad/4. Penance, continued.md",
     "Prison Pad/3. Penance.md",
     "Prison Pad/2. Fallyn Angelys.md",
-    "Prison Pad/1. Kitsu's Question.md",
-    "Friend Circles.md",
-    "Itavrnai - A 17776 Fanfic/Prologue.md",
     "A",
     "Itavrnai - A 17776 Fanfic",
     "TEW IX Let's Play",

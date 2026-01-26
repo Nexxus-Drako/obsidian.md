@@ -1,45 +1,146 @@
-# Early Jarokn Link Dump
+# **Early Jarokn Link Dump**
 
-- [https://web.archive.org/web/20111114011351/http://jarokn.com/](https://web.archive.org/web/20111114011351/http://jarokn.com/ "https://web.archive.org/web/20111114011351/http://jarokn.com/") 
-[https://web.archive.org/web/20180303225809/https://jarokn.tripod.com/index.html](https://web.archive.org/web/20180303225809/https://jarokn.tripod.com/index.html "https://web.archive.org/web/20180303225809/https://jarokn.tripod.com/index.html") 
-[https://jarokn.wordpress.com/](https://jarokn.wordpress.com/ "https://jarokn.wordpress.com/")
-[https://www.deviantart.com/jarokn](https://www.deviantart.com/jarokn "https://www.deviantart.com/jarokn") 
-[https://jarokngames.wordpress.com/](https://jarokngames.wordpress.com/ "https://jarokngames.wordpress.com/") [https://www.youtube.com/watch?v=LGQYXXxg-Wg](https://www.youtube.com/watch?v=LGQYXXxg-Wg "https://www.youtube.com/watch?v=LGQYXXxg-Wg") [https://jamesjaroknknight.wordpress.com/](https://jamesjaroknknight.wordpress.com/ "https://jamesjaroknknight.wordpress.com/")
-[https://github.com/jarokngames](https://github.com/jarokngames "https://github.com/jarokngames") 
-[https://riverinagames.wordpress.com/](https://riverinagames.wordpress.com/ "https://riverinagames.wordpress.com/") 
-[https://github.com/NexxusDrako](https://github.com/NexxusDrako "https://github.com/NexxusDrako")
-[https://jamesrcknight.itch.io/](https://jamesrcknight.itch.io/ "https://jamesrcknight.itch.io/") 
-[https://community.sports-interactive.com/forums/topic/309968-fm14-north-rona-fantasy-mod/](https://community.sports-interactive.com/forums/topic/309968-fm14-north-rona-fantasy-mod/ "https://community.sports-interactive.com/forums/topic/309968-fm14-north-rona-fantasy-mod/") 
-[https://community.sports-interactive.com/forums/topic/345706-fm15-saxon-super-league-sussex-surrey-and-kent-6-tier-system/](https://community.sports-interactive.com/forums/topic/345706-fm15-saxon-super-league-sussex-surrey-and-kent-6-tier-system/ "https://community.sports-interactive.com/forums/topic/345706-fm15-saxon-super-league-sussex-surrey-and-kent-6-tier-system/")
-[https://community.sports-interactive.com/forums/topic/340733-fm15-surrey-super-league-4-tier-nation/](https://community.sports-interactive.com/forums/topic/340733-fm15-surrey-super-league-4-tier-nation/ "https://community.sports-interactive.com/forums/topic/340733-fm15-surrey-super-league-4-tier-nation/")
+[https://web.archive.org/web/20111114011351/http://jarokn.com/](https://web.archive.org/web/20111114011351/http://jarokn.com/)
+[https://web.archive.org/web/20180303225809/https://jarokn.tripod.com/index.html](https://web.archive.org/web/20180303225809/https://jarokn.tripod.com/index.html)
 
-# Early Vyktoryan Commonwealth Link Dump
+[https://jarokn.wordpress.com/](https://jarokn.wordpress.com/)
 
-[https://www.youtube.com/@vbcprime](https://www.youtube.com/@vbcprime "https://www.youtube.com/@vbcprime") 
-[https://micronations.wiki/wiki/M-League](https://micronations.wiki/wiki/M-League "https://micronations.wiki/wiki/M-League") 
-[https://vyktorydragons.weebly.com/](https://vyktorydragons.weebly.com/ "https://vyktorydragons.weebly.com/") 
-[https://vyktory.proboards.com/](https://vyktory.proboards.com/ "https://vyktory.proboards.com/") 
-[https://micronations.wiki/wiki/Micronational_Rocket_League](https://micronations.wiki/wiki/Micronational_Rocket_League "https://micronations.wiki/wiki/Micronational_Rocket_League") 
-[https://web.archive.org/web/20200218121947/https://vyktory.webs.com/](https://web.archive.org/web/20200218121947/https://vyktory.webs.com/ "https://web.archive.org/web/20200218121947/https://vyktory.webs.com/") 
-[https://web.archive.org/web/20160131190230/https://vyktoryfreepress.wordpress.com/](https://web.archive.org/web/20160131190230/https://vyktoryfreepress.wordpress.com/ "https://web.archive.org/web/20160131190230/https://vyktoryfreepress.wordpress.com/") 
-[https://community.sports-interactive.com/forums/topic/364720-fm2016-vyktoryan-football-fantasy-nation/](https://community.sports-interactive.com/forums/topic/364720-fm2016-vyktoryan-football-fantasy-nation/ "https://community.sports-interactive.com/forums/topic/364720-fm2016-vyktoryan-football-fantasy-nation/")
+[https://www.deviantart.com/jarokn](https://www.deviantart.com/jarokn)
 
-# Old Xbox Accounts
+[https://jarokngames.wordpress.com/](https://jarokngames.wordpress.com/)
 
-[https://www.trueachievements.com/gamer/NexxusDrakoXBL](https://www.trueachievements.com/gamer/NexxusDrakoXBL "https://www.trueachievements.com/gamer/NexxusDrakoXBL") 
-[https://www.trueachievements.com/gamer/Nexxus+J+Drako](https://www.trueachievements.com/gamer/Nexxus+J+Drako "https://www.trueachievements.com/gamer/Nexxus+J+Drako")
+[https://www.youtube.com/watch?v=LGQYXXxg-Wg](https://www.youtube.com/watch?v=LGQYXXxg-Wg)
 
-# Old NationStates Chatlogs
+[https://jamesjaroknknight.wordpress.com/](https://jamesjaroknknight.wordpress.com/)
 
-[https://www.nationstates.net/nation=northern_sunrise_islands/detail=factbook/id=154719](https://www.nationstates.net/nation=northern_sunrise_islands/detail=factbook/id=154719 "https://www.nationstates.net/nation=northern_sunrise_islands/detail=factbook/id=154719") 
-[https://www.nationstates.net/nation=northern_sunrise_islands/detail=factbook/id=245298](https://www.nationstates.net/nation=northern_sunrise_islands/detail=factbook/id=245298 "https://www.nationstates.net/nation=northern_sunrise_islands/detail=factbook/id=245298") 
-[https://www.nationstates.net/page=dispatch/id=231124](https://www.nationstates.net/page=dispatch/id=231124 "https://www.nationstates.net/page=dispatch/id=231124")
+[https://github.com/jarokngames](https://github.com/jarokngames)
 
-# Old Open Source Projects
+[https://riverinagames.wordpress.com/](https://riverinagames.wordpress.com/)
 
-[https://github.com/NexxusDrako/DoucheChecker](https://github.com/NexxusDrako/DoucheChecker "https://github.com/NexxusDrako/DoucheChecker") 
-[https://github.com/NexxusDrako/jarokn-tic-tac-toe-club](https://github.com/NexxusDrako/jarokn-tic-tac-toe-club "https://github.com/NexxusDrako/jarokn-tic-tac-toe-club")
-[https://github.com/jarokngames/Jarokn-Cricket](https://github.com/jarokngames/Jarokn-Cricket "https://github.com/jarokngames/Jarokn-Cricket") 
-[https://github.com/jarokngames/Jarokn-Battle](https://github.com/jarokngames/Jarokn-Battle "https://github.com/jarokngames/Jarokn-Battle") [https://launchpad.net/open-leaderboard-app](https://launchpad.net/open-leaderboard-app "https://launchpad.net/open-leaderboard-app") 
-[https://launchpad.net/aussierulescoach](https://launchpad.net/aussierulescoach "https://launchpad.net/aussierulescoach") 
-[https://launchpad.net/freeopencricketsim](https://launchpad.net/freeopencricketsim "https://launchpad.net/freeopencricketsim")
+[https://github.com/NexxusDrako](https://github.com/NexxusDrako)
+
+[https://jamesrcknight.itch.io](https://jamesrcknight.itch.io)
+
+[https://community.sports-interactive.com/forums/topic/309968-fm14-north-rona-fantasy-mod/](https://community.sports-interactive.com/forums/topic/309968-fm14-north-rona-fantasy-mod/)
+
+[https://community.sports-interactive.com/forums/topic/345706-fm15-saxon-super-league-sussex-surrey-and-kent-6-tier-system/](https://community.sports-interactive.com/forums/topic/345706-fm15-saxon-super-league-sussex-surrey-and-kent-6-tier-system/)
+
+[https://community.sports-interactive.com/forums/topic/340733-fm15-surrey-super-league-4-tier-nation/](https://community.sports-interactive.com/forums/topic/340733-fm15-surrey-super-league-4-tier-nation/)
+
+[https://www.abc.net.au/triplejunearthed/artist/nexxus-drako/](https://www.abc.net.au/triplejunearthed/artist/nexxus-drako/)
+
+[https://inara.cz/elite/minorfaction/77558/](https://inara.cz/elite/minorfaction/77558/)
+
+[https://nexxusdrakoarchive.itch.io/](https://nexxusdrakoarchive.itch.io/)
+
+# **Early Vyktoryan Commonwealth Link Dump**
+
+[https://www.youtube.com/@vbcprime](https://www.youtube.com/@vbcprime)
+
+[https://micronations.wiki/wiki/M-League](https://micronations.wiki/wiki/M-League)
+
+[https://vyktorydragons.weebly.com/](https://vyktorydragons.weebly.com/)
+
+[https://vyktory.proboards.com/](https://vyktory.proboards.com/)
+
+[https://micronations.wiki/wiki/Micronational_Rocket_League](https://micronations.wiki/wiki/Micronational_Rocket_League)
+
+[https://web.archive.org/web/20200218121947/https://vyktory.webs.com/](https://web.archive.org/web/20200218121947/https://vyktory.webs.com/)
+
+[https://web.archive.org/web/20160131190230/https://vyktoryfreepress.wordpress.com/](https://web.archive.org/web/20160131190230/https://vyktoryfreepress.wordpress.com/)
+
+[https://community.sports-interactive.com/forums/topic/364720-fm2016-vyktoryan-football-fantasy-nation/](https://community.sports-interactive.com/forums/topic/364720-fm2016-vyktoryan-football-fantasy-nation/)
+
+[https://micras.org/mwiki/Nexxus_Drako](https://micras.org/mwiki/Nexxus_Drako)
+
+[https://micras.org/mwiki/Vyktory](https://micras.org/mwiki/Vyktory)
+
+[https://micras.org/mwiki/Vyktory_national_football_team](https://micras.org/mwiki/Vyktory_national_football_team)
+
+[https://micronations.wiki/wiki/Commonwealth_of_Vyktory](https://micronations.wiki/wiki/Commonwealth_of_Vyktory)
+
+# **Old Open Source Projects**
+
+[https://github.com/NexxusDrako/DoucheChecker](https://github.com/NexxusDrako/DoucheChecker)
+
+[https://github.com/NexxusDrako/jarokn-tic-tac-toe-club](https://github.com/NexxusDrako/jarokn-tic-tac-toe-club)
+
+[https://github.com/jarokngames/Jarokn-Cricket](https://github.com/jarokngames/Jarokn-Cricket)
+
+[https://github.com/jarokngames/Jarokn-Battle](https://github.com/jarokngames/Jarokn-Battle)
+
+[https://launchpad.net/open-leaderboard-app](https://launchpad.net/open-leaderboard-app)
+
+[https://launchpad.net/aussierulescoach](https://launchpad.net/aussierulescoach)
+
+[https://launchpad.net/freeopencricketsim](https://launchpad.net/freeopencricketsim)
+
+[https://github.com/NexxusDrako/leagion-scorinator](https://github.com/NexxusDrako/leagion-scorinator)
+
+[https://github.com/JamesKnight313/king-ace-cricket](https://github.com/JamesKnight313/king-ace-cricket)
+
+[https://github.com/NexxusDrako313/GrindyScience](https://github.com/NexxusDrako313/GrindyScience)
+
+[https://github.com/NexxusDrako313/LessGrindyScience](https://github.com/NexxusDrako313/LessGrindyScience)
+
+[https://github.com/NexxusDrako313/SWInc-NexxusMod](https://github.com/NexxusDrako313/SWInc-NexxusMod)
+
+[https://github.com/NexxusDrako313/ksp-science-redone](https://github.com/NexxusDrako313/ksp-science-redone)
+
+[https://github.com/NexxusDrako313/KSP-Micras](https://github.com/NexxusDrako313/KSP-Micras)
+
+[https://www.tt-forums.net/viewtopic.php?t=62509](https://www.tt-forums.net/viewtopic.php?t=62509)
+
+## **Created PCSX2 Pull Requests**
+
+[https://github.com/PCSX2/pcsx2/pull/11814](https://github.com/PCSX2/pcsx2/pull/11814)
+
+[https://github.com/PCSX2/pcsx2/pull/11505](https://github.com/PCSX2/pcsx2/pull/11505)
+
+[https://github.com/PCSX2/pcsx2/pull/3364](https://github.com/PCSX2/pcsx2/pull/3364)
+
+[https://github.com/PCSX2/pcsx2/pull/6575](https://github.com/PCSX2/pcsx2/pull/6575)
+
+[https://github.com/PCSX2/pcsx2/issues/2524](https://github.com/PCSX2/pcsx2/issues/2524)
+
+# **Old Xbox Accounts**
+
+[https://www.trueachievements.com/gamer/NexxusDrakoXBL](https://www.trueachievements.com/gamer/NexxusDrakoXBL)
+
+[https://www.trueachievements.com/gamer/Nexxus+J+Drako](https://www.trueachievements.com/gamer/Nexxus+J+Drako)
+
+# **Misc. Social Medias**
+
+[Steam Community :: Nexxus Drako](https://steamcommunity.com/id/NexxusDrako/)
+
+[Nexxus_Drako's profile -](https://www.exophase.com/user/Nexxus_Drako/) [Exophase.com](http://Exophase.com)
+
+[NexxusDrako -](https://www.speedrun.com/users/NexxusDrako) [Speedrun.com](http://Speedrun.com)
+
+[Nexxus-Drako (Pyra Drake) Github](https://github.com/Nexxus-Drako)
+
+[NexxusDrako's Profile -](https://myanimelist.net/profile/NexxusDrako) [MyAnimeList.net](http://MyAnimeList.net)
+
+[NexxusDrako’s Music Profile |](https://www.last.fm/user/NexxusDrako) [Last.fm](http://Last.fm)
+
+# **Ham Radio Profiles**
+
+[https://www.qrz.com/db/VK4PKD](https://www.qrz.com/db/VK4PKD)
+
+[https://bsky.app/profile/vk4pkd.bsky.social](https://bsky.app/profile/vk4pkd.bsky.social)
+
+[https://www.qrzcq.com/call/VK4PKD](https://www.qrzcq.com/call/VK4PKD)
+
+[https://app.worldradioleague.com/profile/VK4PKD](https://app.worldradioleague.com/profile/VK4PKD)
+
+# **Streamer Profiles**
+
+[https://hololist.net/nexxus-drako/](https://hololist.net/nexxus-drako/)
+
+[https://streamscharts.com/channels/nexxus_drako](https://streamscharts.com/channels/nexxus_drako)
+
+[https://sullygnome.com/channel/nexxus_drako](https://sullygnome.com/channel/nexxus_drako)
+
+[https://vtubie.com/nexxus-drako/](https://vtubie.com/nexxus-drako/)
+
+[https://hub.vroid.com/en/characters/1738764484006502317/models/1363944454341122678](https://hub.vroid.com/en/characters/1738764484006502317/models/1363944454341122678)
