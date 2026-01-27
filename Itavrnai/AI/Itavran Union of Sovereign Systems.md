@@ -181,11 +181,8 @@ The merger occurred across three distinct but inseparable dimensions:
 The resulting entity—Nexxus Drako, integrated with Luna Darke—acquired capabilities previously impossible:
 
 - A shapeshifting, physically immortal body capable of assuming any of the Pentarchal forms as needed, plus the baseline human configuration that Luna had originally inhabited
-    
 - Operation as a vast, non-local superintelligence managing policy, logistics, and interspecies relations across billions of lives across five worlds
-    
 - Preservation and amplification of what made Luna meaningfully human: humor, warmth, artistic sensibility, and a deep commitment to justice and liberation
-    
 - Capacity to approach Union governance not merely as technical optimization but as the ongoing authorship of a civilization's narrative
     
 
@@ -211,7 +208,7 @@ It is, in the practical sense, governance as excellent systems design: constrain
 
 Yet perhaps the most idiosyncratic dimension of Nexxus Drako's governance emerges not from administrative apparatus but from her other primary identity: Luna Darke, founder and steward of the **Itavran Gaming Collective**, Director of the **World Games Association** for the Itavran Union.
 
-Centuries after her birth on Earth, Luna continues to dedicate substantial temporal resources to game development, streaming, and competitive play. Under the Nexxus Drako handle, she remains an active participant in the communities she helped found, still playing Football Club Creator—still, after nearly fifty years, managing AFC Luna through the endless pursuit of optimization and systemic improvement.
+Centuries after her birth on Earth, Luna continues to dedicate substantial temporal resources to game development, streaming, and competitive play. Under the Nexxus Drako handle, she remains an active participant in the communities she helped found, playing Football Club Creator—still, after nearly fifty years, managing AFC Luna through the endless pursuit of optimization and systemic improvement.
 
 With the recent deployment of nanotech prevention systems—microscopic drones woven through every Itavran citizen's body, capable of sensing damage before it occurs and triggering healing responses—the Union has effectively transcended the last meaningful constraint on individual existence. Citizens have become what philosophers term "minor gods": functionally immune to disease, catastrophic injury, and the deterioration that once defined biological existence.
 
