@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2026-01-27.md",
+                "file": "Projekts/Kalliope/Pyra Drake Biography.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-27"
+              "title": "Pyra Drake Biography"
             }
           }
         ],
@@ -187,12 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/2026-01-27.md",
+                "file": "Projekts/Kalliope/Pyra Drake Biography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-01-27"
+              "title": "Outgoing links from Pyra Drake Biography"
             }
           },
           {
@@ -227,10 +227,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d56cb57e17dc970d",
+  "active": "aeaa44be90d2998c",
   "lastOpenFiles": [
-    "LICENSE.md",
+    "Projekts/Kalliope",
+    "Projekts",
     "Dailies/2026-01-27.md",
+    "Projekts/Kalliope/Pyra Drake Biography.md",
+    "LICENSE.md",
     "Itavrnai/Itavran Chatlogs and Ramblings.md",
     "Itavrnai/Assorted Itavran Verbiage.md",
     "Itavrnai/Itavran Union of Sovereign Systems.md",
@@ -260,11 +263,8 @@
     "Prison Pad/7. Dialling it in.md",
     "Prison Pad/6. Itavrnai II - Wyrmfolk files.md",
     "Prison Pad/5. Technology Sucks.md",
-    "Prison Pad/4. Penance, continued.md",
-    "Prison Pad/3. Penance.md",
     "A",
     "Itavrnai - A 17776 Fanfic",
-    "TEW IX Let's Play",
     "Untitled.canvas"
   ]
 }
