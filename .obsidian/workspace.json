@@ -13,13 +13,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 003 - Crisis.md",
+                "file": "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 005 -.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Infinite Sporting 003 - Crisis"
+              "title": "Infinite Sporting 005 -"
+            }
+          },
+          {
+            "id": "5ff9f835229b9648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itavrnai/AI/Biography/Quinn Caelstis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Quinn Caelstis"
+            }
+          },
+          {
+            "id": "ba792e1c33c90953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itavrnai/AI/Biography/Luna Fenrir.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Luna Fenrir"
+            }
+          },
+          {
+            "id": "4ab26e1e5d6e0673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 004 - Praxis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Infinite Sporting 004 - Praxis"
+            }
+          },
+          {
+            "id": "cefd04c50d59d884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itavrnai/AI/Infinite Sporting Future/Bios/Akari Hayashida.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Akari Hayashida"
             }
           },
           {
@@ -37,7 +97,8 @@
               "title": "Infinite Sporting 001 - Vyktory"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 003 - Crisis.md",
+                "file": "Itavrnai/AI/Infinite Sporting Future/Bios/Akari Hayashida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Infinite Sporting 003 - Crisis"
+              "title": "Outgoing links from Akari Hayashida"
             }
           },
           {
@@ -227,14 +288,29 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "0833d4826be0cc6a",
+  "active": "cefd04c50d59d884",
   "lastOpenFiles": [
-    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 002 - Kazumi.md",
-    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 003 - Crisis.md",
-    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 001 - Vyktory.md",
-    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 000 - Prologue.md",
-    "Itavrnai/AI/Omnibus Itavran Biography.md",
+    "Itavrnai/AI/Infinite Sporting Future/Bios/Dr. Maya Sorenson.md",
+    "Itavrnai/AI/Infinite Sporting Future/Bios/Zorath Dekitona.md",
+    "Itavrnai/AI/Infinite Sporting Future/Bios/Akari Hayashida.md",
+    "Itavrnai/AI/Biography/Sythini Rythorn.md",
+    "Itavrnai/AI/Biography/Luna Fenrir.md",
+    "Itavrnai/AI/Biography/Quinn Caelstis.md",
     "Itavrnai/Assorted Itavran Verbiage.md",
+    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 005 -.md",
+    "Itavrnai/AI/Infinite Sporting Future/Summaries/Infinite Summary 000-004.md",
+    "Itavrnai/AI/Infinite Sporting Future/Summaries/Story So Far.md",
+    "Itavrnai/AI/Infinite Sporting Future/Bios",
+    "Projekts/Kalliope/Untitled.md",
+    "Itavrnai/AI/Infinite Sporting Future/Summaries",
+    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 004 - Praxis.md",
+    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 003 - Crisis.md",
+    "README.md",
+    "Itavrnai/AI/Omnibus Itavran Biography.md",
+    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 000 - Prologue.md",
+    "Itavrnai/AI/Biography",
+    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 002 - Kazumi.md",
+    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting 001 - Vyktory.md",
     "Itavrnai/AI/Itavran Union of Sovereign Systems.md",
     "Itavrnai/AI/Biography/Nexxus Drako.md",
     "Itavrnai/AI/Biography/Luna Darke.md",
@@ -247,24 +323,9 @@
     "Itavrnai/Itavran Chatlogs and Ramblings.md",
     "Itavrnai/AI/Infinite Sporting Future",
     "Vyvræl,.md",
-    "[Mollitiam.md",
-    "[[Mollitiam.md",
     "Itavrnai/AI/Biography",
-    "Projekts/Kalliope/Untitled.md",
-    "Projekts/Kalliope/Pyra Drake Biography.md",
-    "Projekts/Untitled.md",
     "Projekts/Kalliope",
     "Projekts",
-    "Dailies/2026-01-27.md",
-    "Misc/Archive Project.md",
-    "NDG/NDG Minecraft Server Logs.md",
-    "README.md",
-    "Sevestra Rythorn.md",
-    "SEGA FC Champions.md",
-    "NDG",
-    "Misc",
-    "Untitled.base",
-    "Tikal.md",
     "Untitled.canvas"
   ]
 }
