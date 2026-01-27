@@ -28,17 +28,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projekts/Kalliope/Untitled.md",
+                "file": "LICENSE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "LICENSE"
+            }
+          },
+          {
+            "id": "18d4833884890bb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itavrnai/Biography/Luna Darke.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Luna Darke"
+            }
+          },
+          {
+            "id": "0833d4826be0cc6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itavrnai/Biography/Nexxus Drako.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Nexxus Drako"
+            }
+          },
+          {
+            "id": "219a72b5745a1eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itavrnai/Biography/Kazumi Aikawa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Kazumi Aikawa"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "5796c68c2bab7916",
@@ -187,12 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projekts/Kalliope/Untitled.md",
+                "file": "Itavrnai/Biography/Luna Darke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Luna Darke"
             }
           },
           {
@@ -227,18 +272,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d56cb57e17dc970d",
+  "active": "18d4833884890bb6",
   "lastOpenFiles": [
-    "Projekts/Kalliope/Pyra Drake Biography.md",
+    "Itavrnai/Biography/Nexxus Drako.md",
+    "Itavrnai/Biography/Luna Darke.md",
+    "Itavrnai/Biography/Kazumi Aikawa.md",
+    "Itavrnai/Infinite Sporting Future/Infinite Sporting Prologue.md",
+    "Itavrnai/Itavran Union.md",
+    "Itavrnai/Itavran Chatlogs and Ramblings.md",
+    "Itavrnai/Assorted Itavran Verbiage.md",
+    "Itavrnai/Infinite Sporting Future",
+    "Vyvræl,.md",
+    "[Mollitiam.md",
+    "[[Mollitiam.md",
+    "LICENSE.md",
+    "Untitled",
+    "Itavrnai/Biography",
     "Projekts/Kalliope/Untitled.md",
+    "Projekts/Kalliope/Pyra Drake Biography.md",
     "Projekts/Untitled.md",
     "Projekts/Kalliope",
     "Projekts",
     "Dailies/2026-01-27.md",
-    "LICENSE.md",
-    "Itavrnai/Itavran Chatlogs and Ramblings.md",
-    "Itavrnai/Assorted Itavran Verbiage.md",
-    "Itavrnai/Itavran Union of Sovereign Systems.md",
     "Misc/Archive Project.md",
     "NDG/NDG Minecraft Server Logs.md",
     "README.md",
@@ -252,19 +307,9 @@
     "Games That I Want To Play But Don't Exist.md",
     "03-01-2026 5pm.md",
     "Dreamscape",
-    "System",
-    "Dailies",
     "Prison Pad/15. Capital is Falling.md",
     "Prison Pad/14. Self-Reflection 23-11.md",
     "Prison Pad/13. Silver Linings.md",
-    "Prison Pad/12. 23-11 Notes & Random Shit.md",
-    "Prison Pad/11. Religion.md",
-    "Prison Pad/10. Boredom Quells.md",
-    "Prison Pad/9. Broken Mind, Broken Soul.md",
-    "Prison Pad/8. Reach Out.md",
-    "Prison Pad/7. Dialling it in.md",
-    "Prison Pad/6. Itavrnai II - Wyrmfolk files.md",
-    "A",
     "Untitled.canvas"
   ]
 }

@@ -1,6 +1,6 @@
 See also: [[Itavran Chatlogs and Ramblings]]
 # General Information
-Official name of the Union: **The [[Itavran Union of Sovereign Systems]]** 
+Official name of the Union: **The [[Itavran Union]]** 
 
 Official name of Itavrnai II: **The Sovereign Motherworld of [[Wyrmveld]], Birthplace Of The Wyrmfolk** 
 
@@ -54,7 +54,7 @@ Initially Sol III _(originally known to Itavrans as "Kuratazi III")_ was seen as
 Japanese is closely related to the Itavran language, as the Japanese deities were descended from Itavrans. [[Itavran]] is usually written in Katakana and is entirely mutually unintelligible with Japanese, and appears much like Arabic does to Urdu speakers, which is as gibberish written in the same script. All deities on Earth are all interpretations of living gods in Itavrnai.
 
 # Culture
-The most popular show on Itavrnai is the soap opera _**[[ISS Voyager]]**_, loosely reminiscent of _Star Trek_. The most popular non-Sports show imported from Sol III is Australia's ***Neighbours.***
+The most popular show on Itavrnai is the soap opera _**[[IUSS Voyager]]**_, loosely reminiscent of _Star Trek_. The most popular non-Sports show imported from Sol III is Australia's ***Neighbours.***
 
 In the Union, when speaking English, the Felidfolk sound South African, the Wülffolk sound like a Scandinavian who speaks EN as a 2nd language, the Ælffolk have a received pronunciation accent reminiscent of BBC newscasters, and the Kitsunes, depending on which tribe they're from, can have any accent, whether it be Texan, New Englander, Californian, Scot, Cockney, Mancunian, Novacastrian, the various Australian accents, et cetera. 
 
@@ -111,7 +111,7 @@ Itavr II is an arid planet, with scarce water. Most of the water consumed on the
 
 Ælffolk have a very low birth rate, but live to be at least 1,000, so elf chldren are extremely rare, especially as they're considered "Adults" by age 23. There are also many more females than males (80/20) split, which also makes all males have a royal importance, and many ælven women work and live in a male's harem. 
 
-Lineage amongst Ælffolk is extremely important, poltically, and ælven women often compete to be part of a harem, if they so wish to be. The most famous "paternal house" is of course, [[House Rythorn]], whose current patriarch is **[[Sevestra Rythorn]]**, who was the first intersex Ælffolk to be born with both reproductive systems functional. 
+Lineage amongst Ælffolk is extremely important, poltically, and ælven women often compete to be part of a harem, if they so wish to be. The most famous "paternal house" is of course, [[House Rythorn]], whose current patriarch is **[[Sythini Rythorn]]**, who was the first intersex Ælffolk to be born with both reproductive systems functional. 
 
 Wulffolk and Felidfolk have normal birth rates, but only have a mating season every 7 years. Multiple births are common and expected.
 
