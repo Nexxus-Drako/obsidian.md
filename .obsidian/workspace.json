@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itavrnai/Biography/Luna Darke.md",
+                "file": "Itavrnai/AI/Biography/Luna Darke.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itavrnai/Biography/Nexxus Drako.md",
+                "file": "Itavrnai/AI/Biography/Nexxus Drako.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -73,17 +73,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itavrnai/Biography/Kazumi Aikawa.md",
+                "file": "Itavrnai/AI/Itavran Union of Sovereign Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Kazumi Aikawa"
+              "title": "Itavran Union of Sovereign Systems"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "5796c68c2bab7916",
@@ -232,12 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itavrnai/Biography/Luna Darke.md",
+                "file": "Itavrnai/AI/Itavran Union of Sovereign Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Luna Darke"
+              "title": "Outgoing links from Itavran Union of Sovereign Systems"
             }
           },
           {
@@ -272,22 +272,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18d4833884890bb6",
+  "active": "aeaa44be90d2998c",
   "lastOpenFiles": [
-    "Itavrnai/Biography/Nexxus Drako.md",
-    "Itavrnai/Biography/Luna Darke.md",
-    "Itavrnai/Biography/Kazumi Aikawa.md",
-    "Itavrnai/Infinite Sporting Future/Infinite Sporting Prologue.md",
-    "Itavrnai/Itavran Union.md",
-    "Itavrnai/Itavran Chatlogs and Ramblings.md",
+    "Itavrnai/AI",
+    "Projekts",
+    "AI",
+    "Itavrnai/AI/Biography/Kazumi Aikawa.md",
+    "Itavrnai/AI/Biography/Luna Darke.md",
+    "Itavrnai/AI/Biography/Nexxus Drako.md",
+    "Itavrnai/AI/Itavran Union of Sovereign Systems.md",
     "Itavrnai/Assorted Itavran Verbiage.md",
-    "Itavrnai/Infinite Sporting Future",
+    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting Prologue.md",
+    "Nexxus Jarokn Drakonius.md",
+    "Itavrnai/Itavran Chatlogs and Ramblings.md",
+    "Itavrnai/AI/Infinite Sporting Future",
     "Vyvræl,.md",
     "[Mollitiam.md",
     "[[Mollitiam.md",
     "LICENSE.md",
-    "Untitled",
-    "Itavrnai/Biography",
+    "Itavrnai/AI/Biography",
     "Projekts/Kalliope/Untitled.md",
     "Projekts/Kalliope/Pyra Drake Biography.md",
     "Projekts/Untitled.md",
@@ -306,10 +309,7 @@
     "Itavrnai",
     "Games That I Want To Play But Don't Exist.md",
     "03-01-2026 5pm.md",
-    "Dreamscape",
     "Prison Pad/15. Capital is Falling.md",
-    "Prison Pad/14. Self-Reflection 23-11.md",
-    "Prison Pad/13. Silver Linings.md",
     "Untitled.canvas"
   ]
 }

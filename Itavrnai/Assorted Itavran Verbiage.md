@@ -1,6 +1,6 @@
 See also: [[Itavran Chatlogs and Ramblings]]
 # General Information
-Official name of the Union: **The [[Itavran Union]]** 
+Official name of the Union: **The [[Itavran Union of Sovereign Systems]]** 
 
 Official name of Itavrnai II: **The Sovereign Motherworld of [[Wyrmveld]], Birthplace Of The Wyrmfolk** 
 
