@@ -42,3 +42,13 @@ See also: [[Assorted Itavran Verbiage]]
 - "I shall build a great plaza, so our subjects can meet together and learn the social studies and ways of being honest and true." said the Felidfolk progenitor, [[Inspectio]].
 - "I shall build a great park, so our subjects can find peace in the world and confidence in themselves and the natural spaces around them." said the Vulpfolk progenitor, [[Confidentia]].
 - _And so they got to work._
+# kardashev
+I'm keeping the Itavrans at 1.8 Kardeshev. They have FTL capability, but it's so expensive and annoying that it's the reserve of the VIPs of the VIPs. Mostly for out-system resource mining and shit. They have a fair chunk of the Itavran Sector mapped, and a couple of systems colonized, but the capital system is where all the stories and shit will take place, except maybe in Tikaru (fka Tikal), where the Galactic Federation is.
+# vidya
+Elf video games: JRPGs with more words in their dialogue trees than any human book, reference works included
+Wyrmfolk TV: Literally ESPN8 - The Ocho. 
+Wyrmfolk video games: Sports games with such intricate depth and loving craftsmanship it would nuke EA sales if so much of a whiff of a possible Earth release were to get out. The _Dwarf Fortress_ of sports games. Every bone in every body in the stadium is simulated. A popular meme speedrun category is how quickly you can get fired as GM because your stadium keeps running out of <BEER EQUIVALENT>.
+Kitsune TV: Literally porn.
+Kitsune videogames: Literally hentai.
+And yet somehow, despite being a popular "casual retro human game" the Wyrmfolk still can't beat Luna Drake's speedrun record in Let's Make A Soccer Team, because she's too fucking good at the game.
+

@@ -143,3 +143,11 @@ t some point said "magick" begins to go haywire and cause massive problems for t
 - The Leader of Itavrnai IV, the leader of the Vulpfolk, is [[Kazumi Aikawa]], who ascended to immortality by self sterilization and extreme hormonal manipulation along with gene therapy. 
 - The dual Leaders of Itavrnai VI, the leaders of the Wolffolk ([[Luna Fenrir]]) and Felidolk ([[Quinn Caelestis]]) both became immortal through intense ritual and manipulation of the forces of the universe, and of each other. 
 - The Leader of Itavrnai V, and goddess-creator of the entire Itavran Union, is Luna Darke, the Avatar of the Creator.
+  
+# Tikal
+ 
+Tikal is still the name of a star nearby to Itavr, but it's named after the ancient Queendom of Tikal, who are based on the Vikatōrua of Itavrnai II which is home to Vyktoria, and the somewhat familiar Vyktan species (basically humans, but with more outlandish natural hair, eye, and skin colors). They had little interaction with the mostly Pangea-like landmass of Dirakatōna, home to the Wyrmfolke, and its thirty-seven pre-space nationstartes in this period.
+
+I think it'd be something like the Three Sisters period, where Tikal was divided amongst the triplet daughters of Queen Solana IV; Faelira, Caelestia, and Erista, becoming fractured as the three sisters try to reconcile things under a single regent, their uncle, Excelcius Darikan. (The royal dynasty is Auralis, but Excelcius is from the cadet branch of Auralis-Darikan.) It was never noted which child came first as they're all identical triplets. The Queendom of Tikal practices female-preference primogeniture.
+
+Contemporaneously, Wyrmfolk are in a particularly imperial era of their ascendancy and decided to seed a new (humanish) lifeform on one of their minor continents, and cut them off from all contact in or out, while monitoring them with technology that seems to the locals like magic. You play as one of the "chosen ones" in their mediæval era, as "magick" begins to go haywire and cause massive problems for the mediaeval serf-based society, eventually battling through a (formerly cloaked) Wyrmish base at the end where the exposition of the whole thing happens.
