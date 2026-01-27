@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "Dailies/2026-01-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LICENSE"
+              "title": "2026-01-27"
             }
           }
         ],
@@ -187,12 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LICENSE.md",
+                "file": "Dailies/2026-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LICENSE"
+              "title": "Outgoing links from 2026-01-27"
             }
           },
           {
@@ -229,6 +229,7 @@
   },
   "active": "d56cb57e17dc970d",
   "lastOpenFiles": [
+    "LICENSE.md",
     "Dailies/2026-01-27.md",
     "Itavrnai/Itavran Chatlogs and Ramblings.md",
     "Itavrnai/Assorted Itavran Verbiage.md",
@@ -237,7 +238,6 @@
     "NDG/NDG Minecraft Server Logs.md",
     "README.md",
     "Sevestra Rythorn.md",
-    "LICENSE.md",
     "SEGA FC Champions.md",
     "NDG",
     "Misc",
