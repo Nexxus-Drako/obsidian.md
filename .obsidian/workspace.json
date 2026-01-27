@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itavrnai/Assorted Itavran Verbiage.md",
+                "file": "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting Prologue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Assorted Itavran Verbiage"
+              "title": "Infinite Sporting Prologue"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "Itavrnai/AI/Biography/Kazumi Aikawa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LICENSE"
+              "title": "Kazumi Aikawa"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,12 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itavrnai/AI/Itavran Union of Sovereign Systems.md",
+                "file": "Itavrnai/AI/Biography/Kazumi Aikawa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Itavran Union of Sovereign Systems"
+              "title": "Outgoing links from Kazumi Aikawa"
             }
           },
           {
@@ -269,27 +269,28 @@
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "aeaa44be90d2998c",
+  "active": "d56cb57e17dc970d",
   "lastOpenFiles": [
+    "Itavrnai/AI/Itavran Union of Sovereign Systems.md",
+    "Itavrnai/AI/Biography/Nexxus Drako.md",
+    "Itavrnai/AI/Biography/Luna Darke.md",
+    "Itavrnai/AI/Biography/Kazumi Aikawa.md",
+    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting Prologue.md",
+    "Itavrnai/Assorted Itavran Verbiage.md",
+    "LICENSE.md",
     "Itavrnai/AI",
     "Projekts",
     "AI",
-    "Itavrnai/AI/Biography/Kazumi Aikawa.md",
-    "Itavrnai/AI/Biography/Luna Darke.md",
-    "Itavrnai/AI/Biography/Nexxus Drako.md",
-    "Itavrnai/AI/Itavran Union of Sovereign Systems.md",
-    "Itavrnai/Assorted Itavran Verbiage.md",
-    "Itavrnai/AI/Infinite Sporting Future/Infinite Sporting Prologue.md",
     "Nexxus Jarokn Drakonius.md",
     "Itavrnai/Itavran Chatlogs and Ramblings.md",
     "Itavrnai/AI/Infinite Sporting Future",
     "Vyvræl,.md",
     "[Mollitiam.md",
     "[[Mollitiam.md",
-    "LICENSE.md",
     "Itavrnai/AI/Biography",
     "Projekts/Kalliope/Untitled.md",
     "Projekts/Kalliope/Pyra Drake Biography.md",
@@ -306,7 +307,6 @@
     "Misc",
     "Untitled.base",
     "Tikal.md",
-    "Itavrnai",
     "Games That I Want To Play But Don't Exist.md",
     "03-01-2026 5pm.md",
     "Prison Pad/15. Capital is Falling.md",
