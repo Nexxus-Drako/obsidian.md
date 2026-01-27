@@ -1,7 +1,7 @@
 {
   "defaultVoice": "speechSynthesis-Microsoft Catherine - English (Australia)",
-  "pitch": 0.6,
-  "rate": 7.5,
+  "pitch": 1,
+  "rate": 1,
   "volume": 1,
   "speakLinks": false,
   "speakFrontmatter": false,
