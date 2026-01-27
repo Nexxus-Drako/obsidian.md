@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itavrnai/AI/Infinite Future/Infinite Future 008 - Tikal.md",
+                "file": "Itavrnai/AI/Omnibus Itavran Biography.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Infinite Future 008 - Tikal"
+              "title": "Omnibus Itavran Biography"
             }
           }
         ]
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itavrnai/AI/Infinite Future/Infinite Future 008 - Tikal.md",
+                "file": "Itavrnai/AI/Omnibus Itavran Biography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Infinite Future 008 - Tikal"
+              "title": "Outgoing links from Omnibus Itavran Biography"
             }
           },
           {
@@ -214,9 +214,11 @@
   },
   "active": "896973dea6642595",
   "lastOpenFiles": [
+    "Itavrnai/AI/Infinite Future/Infinite Future 009 -.md",
+    "Itavrnai/AI/Infinite Future/Infinite Future 008 - Tikal.md",
+    "Itavrnai/AI/Infinite Future/Infinite Future 000 - Prologue.md",
     "Itavrnai/AI/Infinite Future/Summaries/Infinite Summary 000-004.md",
     "Itavrnai/AI/Infinite Future/Summaries/Story So Far.md",
-    "Itavrnai/AI/Infinite Future/Infinite Future 008 - Tikal.md",
     "Itavrnai/AI/Infinite Future/Infinite Future 007 - Diplomacy.md",
     "Itavrnai/AI/Infinite Future/Infinite Future 006 - Fatigue.md",
     "Itavrnai/AI/Infinite Future/Infinite Future 005 - Paradigms.md",
@@ -224,7 +226,6 @@
     "Itavrnai/AI/Infinite Future/Infinite Future 003 - Crisis.md",
     "Itavrnai/AI/Infinite Future/Infinite Future 001 - Vyktory.md",
     "Itavrnai/AI/Infinite Future/Infinite Future 002 - Kazumi.md",
-    "Itavrnai/AI/Infinite Future/Infinite Future 000 - Prologue.md",
     "Itavrnai/AI/Omnibus Itavran Biography.md",
     "Itavrnai/AI/Omnibus Itavran Biography.md",
     "Itavrnai/Assorted Itavran Verbiage.md",
@@ -242,7 +243,6 @@
     "Itavrnai/AI/Biography",
     "Itavrnai/AI/Itavran Union of Sovereign Systems.md",
     "Itavrnai/AI/Biography/Nexxus Drako.md",
-    "Itavrnai/AI/Biography/Luna Darke.md",
     "Itavrnai/AI",
     "Projekts",
     "AI",
