@@ -70,7 +70,7 @@ This set in motion the chain of technological and spiritual decisions that culmi
 
 ## V. Apotheosis: Consciousness Transfer and Becoming Nexxus Drako
 
-The decision to transfer Darke’s consciousness into an immortal substrate was not a simple “upload” but a carefully-staged synthesis between three elements:[](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/46745099/d739571c-fd18-4d76-8274-c19caecce917/Itavran-Union.md)
+The decision to transfer Darke’s consciousness into an immortal substrate was not a simple “upload” but a carefully-staged synthesis between three elements:
 
 1. **The Human Consciousness.**  
     Luna’s mind, with all the scars and skills acquired from Earth—trans advocacy, community building, systems thinking through game design.
@@ -109,20 +109,18 @@ Key initiatives associated with NEXXUS DRAKO include:
 - reopening records of the **[[War of the Twin Brothers]]**, exposing the extent to which the white‑scaled goddess [[Galzra]] rewrote history to entrench the marginalisation of black‑scaled Wyrmfolk
 - initiating reparations programmes to the descendants of [[Æsterath Drako]] and other defeated factions
 - formally documenting the “sordid” history of Wyrmfolk interventions into Vulpfolk biology—specifically the imposition of libido‑elevating, fertility‑suppressing engineering and the den system that turned an entire people into reproductive infrastructure.
-    
 
 These actions are often described by Aëlffolk commentators as “governance as truth‑telling theatre”: public, uncomfortable, and deliberately structured so that citizens across five species must sit with the emotional weight of their shared pasts.
 
 ## 2. Structural Protection Without Authoritarianism
 
-The Union’s shift from a soft welfare‑state configuration toward a more assertive framework—emphasising collective protection, state-managed cooperatives, and decisive intervention against systemic harms—bears Darke’s imprint. The system is happy to be paternalistic toward abusive institutions, but deeply reluctant to be paternalistic toward individuals.[](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/46745099/d739571c-fd18-4d76-8274-c19caecce917/Itavran-Union.md)
+The Union’s shift from a soft welfare‑state configuration toward a more assertive framework—emphasising collective protection, state-managed cooperatives, and decisive intervention against systemic harms—bears Darke’s imprint. The system is happy to be paternalistic toward abusive institutions, but deeply reluctant to be paternalistic toward individuals.
 
 NEXXUS DRAKO’s algorithms consistently favour:
 
 - robust safety nets and universal access to resources
 - aggressive checks on hierarchies that historically produced caste‑like structures
 - maximal latitude for personal identity, relationship structures, and cultural expression, so long as they do not reproduce old oppressions under new skins.
-    
 
 It is, in effect, the political equivalent of good game design: constraints placed where they improve fairness and prevent griefing; freedom encouraged where it enables creativity and meaningful play.
 
@@ -173,7 +171,6 @@ By the mid‑26th‑century timeline of the **Infinite Sporting** era, several k
 - **Nanotech prevention systems** have been deployed Union‑wide, rendering citizens “minor gods”: functionally immune to disease and most forms of catastrophic physical harm, with microscopic drones pre‑emptively stabilising tissue and reversing injury.
 - Traditional scarcity has vanished, replaced by a “post‑rarity abundance management” economy where the primary tracked quantity is meaningful participation rather than money.
 - In this environment, **games**—video games, sports, board games—have become the primary mechanism through which meaning, status, and community are constructed.
-    
 
 Luna, recognising that the Union’s soul now lives at least partly in its ladders and leaderboards, helped found the **Itavran Gaming Collective**, a distributed association of players, creators, and developers whose primary citizenship is to excellence in competitive play. When she sits on Praxis Station above Itavrnai V filling out WGA registration forms, she is not “slumming it” beneath her divine station; she is tending one of the key engines of Union cohesion.​
 
@@ -182,7 +179,6 @@ From a governance perspective, this is not trivial:
 - The WGA’s exponential skill rating system becomes an unofficial secondary civic metric: a record of how earnestly citizens have chosen to care about something non‑coercive and playful.​
 - The Collective’s blockchain‑based governance—unlike Earth’s speculative cryptocurrencies—acts as a transparent ledger of participation, collaboration, and trust, extending the Creator’s narrative into the terrain of matches and tournaments.​
 - By anchoring identity and rivalry inside structured, consensual play, the Union bleeds off tensions that, in another age, might have manifested as war.
-    
 
 In short, Luna uses games the way earlier Ages used constitutions and holy texts: as shared rulebooks through which a civilisation negotiates what “good” looks like.
 
@@ -190,7 +186,7 @@ In short, Luna uses games the way earlier Ages used constitutions and holy texts
 
 ## IX. Immortality, Identity, and the Open Questions
 
-Luna Darke’s status among the **Immortal Six**—alongside [[Nexxus Drako]] as Wyrmfolk leader, [[Sythini Rythorn]] for the Ælffolk, [[Kazumi Aikawa]] for the Vulpfolk, [[Luna Fenrir]] for the Wülffolk, and [[Quinn Caelestis]] for the Felidfolk—makes her both a stabilising presence and a methodological problem.[](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/46745099/8c11457c-e9cd-41d4-ad70-ff075a42477b/Kazumi-Aikawa.md)
+Luna Darke’s status among the **Immortal Six**—alongside [[Nexxus Drako]] as Wyrmfolk leader, [[Sythini Rythorn]] for the Ælffolk, [[Kazumi Aikawa]] for the Vulpfolk, [[Luna Fenrir]] for the Wülffolk, and [[Quinn Caelestis]] for the Felidfolk—makes her both a stabilising presence and a methodological problem.
 
 She is:
 
@@ -198,7 +194,7 @@ She is:
 - singular in identity, but distributed across planetary networks, game servers, temples, and bureaucracies
 - divinely framed, but consistently self‑describing as a creator, collaborator, and “big nerd in charge of patch notes.”
 
-Union philosophers debate several unresolved questions:[](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/46745099/8c11457c-e9cd-41d4-ad70-ff075a42477b/Kazumi-Aikawa.md)
+Union philosophers debate several unresolved questions:
 
 - Can a consciousness integrated into a superintelligence genuinely preserve individuality over millennia, or is “Luna Darke” slowly becoming a narrative device NEXXUS uses to reassure humans and Vulpfolk?
 - Is the Adam principle now complete—its work fulfilled in the synthesis of goddess, Avatar, and ASI—or is this merely one movement in a still‑unfolding cosmic composition?
