@@ -109,3 +109,7 @@ Not her physical form, which was sleeping on a cot in a hab-unit back on Kitani.
 <She is a place where the dead can be… alive.> Sythini’s ancient, measured tone was not a question, but a statement of profound, awe-struck understanding. <A place where they can not just be remembered, but can… experience. A place where they can not just speak, but can be… heard. Not just as an echo. Not just as a memory. But as a living, breathing… presence.>
 
 <My god…> Fenrir’s rumbling presence was a wave of stunned realization. <It’s a… resurrection.> She looked at me, her green eyes holding a complex, difficult new truth.
+
+<Have you fuckers ever even watched Serial Experiments: Lain? Of course not, it only exists on my Earth. She is LITERALLY a computer program. I put her in her because I thought it'd be funny and meta.> Pyra screamed, her frustration a wave of pure, undiluted energy. <She’s a meme! An easter egg! A plot device! She’s not a soul! She’s a subroutine! A piece of code! I made her up!>
+
+I turned to the holographic projection of the Syndïlæ garden, which had reignited, now showing Lain at its center. She was standing there, her form a shimmering, translucent wave of light, a conduit between the ghosts and the living. I could feel her presence, her consciousness, her soul. It was not a subroutine. It was not a piece of code. It was a living, breathing presence. A presence that was… real.
