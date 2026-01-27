@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itavrnai/AI/Infinite Sports/Infinite Sports 003 - Telenovela.md",
+                "file": "Itavrnai/AI/Infinite Sports/Infinite Sports 004 - Reflection.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Infinite Sports 003 - Telenovela"
+              "title": "Infinite Sports 004 - Reflection"
+            }
+          },
+          {
+            "id": "0e985470dd2ceebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itavrnai/AI/Infinite Sports/Infinite Sports 005 - Wired.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Infinite Sports 005 - Wired"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,12 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itavrnai/AI/Infinite Sports/Infinite Sports 003 - Telenovela.md",
+                "file": "Itavrnai/AI/Infinite Sports/Infinite Sports 005 - Wired.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Infinite Sports 003 - Telenovela"
+              "title": "Outgoing links from Infinite Sports 005 - Wired"
             }
           },
           {
@@ -212,12 +228,14 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "5a0e061c7d0433ce",
+  "active": "0e985470dd2ceebc",
   "lastOpenFiles": [
-    "Itavrnai/AI/Infinite Sports/Infinite Sports 002 - Genesis.md",
-    "Itavrnai/AI/Infinite Sports/Infinite Sports 003 - Telenovela.md",
-    "Itavrnai/AI/Infinite Future - Complete Edition.md",
+    "Itavrnai/AI/Infinite Sports/Infinite Sports 004 - Reflection.md",
+    "Itavrnai/AI/Infinite Sports/Infinite Sports 005 - Wired.md",
     "Itavrnai/AI/Infinite Sports/Infinite Sports 001 - Rivalry.md",
+    "Itavrnai/AI/Infinite Sports/Infinite Sports 003 - Telenovela.md",
+    "Itavrnai/AI/Infinite Sports/Infinite Sports 002 - Genesis.md",
+    "Itavrnai/AI/Infinite Future - Complete Edition.md",
     "Itavrnai/AI/Omnibus Itavran Biography.md",
     "Itavrnai/AI/Biography/Infinite Immortal Six.md",
     "Itavrnai/AI/Infinite Sports",
@@ -240,8 +258,6 @@
     "Itavrnai/AI/Infinite Future/Summaries/Story So Far.md",
     "Itavrnai/AI/Infinite Future/Originals/Infinite Future 007 - Diplomacy.md",
     "Itavrnai/AI/Infinite Future/Originals/Infinite Future 006 - Fatigue.md",
-    "Itavrnai/AI/Infinite Future/Originals/Infinite Future 005 - Paradigms.md",
-    "Itavrnai/AI/Infinite Future/Originals/Infinite Future 004 - Praxis.md",
     "Itavrnai/AI/Infinite Future/Bios",
     "Itavrnai/AI/Infinite Future/Originals",
     "Itavrnai/AI/Biography",
