@@ -26,7 +26,7 @@ Wyrmveld is characterized by mountainous deserts and perpetual water scarcity—
 
 **Itavrnai III (Esmërældus)**, home to the Ælffolk, presents a strikingly different ecological profile from Wyrmveld. A lush, continental world 1.13 times Earth's size, Esmërældus features vast boreal and swampy regions that remain largely undeveloped even by contemporary standards. Notably, Esmërældus is a **stagnant-lid planet**—possessing no active plate tectonics—a geological reality that has profoundly influenced both its ecology and the species that evolved there. The planet's slow biological cycles correlate directly with the extraordinary longevity of the Ælffolk, whose thousand-year lifespans appear intimately connected to living within an ecosystem where growth and change operate at dramatically reduced pace compared to active-tectonics worlds.
 
-This planetary geology translates directly into cultural temperament. The Ælffolk have developed a fundamentally different relationship with temporal punctuality compared to the efficiency-obsessed Wyrmfolk—a persistent point of friction between species that will recur throughout Union governance structures. What the Wyrmfolk experience as infuriating laxity, the Ælffolk experience as rational acknowledgment of deep time. When speaking English, the Ælffolk are noted for adopting received pronunciation accents reminiscent of BBC newsreaders, and in cultural temperament, they are famously lax regarding temporal punctuality—a difference that extends far beyond mere scheduling inconvenience and reflects fundamental philosophical differences about the nature of time itself.
+This planetary geology translates directly into cultural temperament. The Ælffolk have developed a fundamentally different relationship with temporal punctuality compared to the efficiency-obsessed Wyrmfolk—a persistent point of friction between species that will recur throughout Union governance structures. What the Wyrmfolk experience as infuriating laxity, the Ælffolk experience as rational acknowledgment of deep time. When speaking English, the Ælffolk are noted for adopting received pronunciation accents reminiscent of BBC newsreaders, and in cultural temperament, they are famously lax regarding temporal punctuality—a difference that extends far beyond mere scheduling and reflects fundamental philosophical divergence about the nature of time, obligation, and the proper rhythm of existence.
 
 **Itavrnai IV (Kunatairō)**, home to the Vulpfolk, is an oceanic world of extraordinary ecological dynamism—1.69 times Earth's size, 90 percent covered in water, characterized by archipelagos that form and reform continuously through tectonic activity. This island-world ecology has created a unique biological and cultural context for the Vulpfolk. Yet Kunatairō harbors something far more significant than ordinary oceanic ecosystems: the planetary atmosphere possesses a naturally occurring chemical composition that functions as a potent aphrodisiac and stimulant to Vulpfolk physiology. This atmospheric reality, combined with the species' catastrophically low natural birth rates and extremely high miscarriage rates, created ecological and social conditions that would fundamentally determine the trajectory of Vulpfolk civilization in ways that would persist even as the Union moved toward liberation and genuine autonomy.
 
@@ -35,6 +35,10 @@ This planetary geology translates directly into cultural temperament. The Ælffo
 **Itavrnai VI (Syndïlæ)**, a cold, tundra world 1.03 times Earth's size, serves as the joint home of the Wülffolk and Felidfolk. Characterized by extensive tundras, frequent blizzards, and vast networks of natural underground cave systems, Syndïlæ has influenced the cultural and settlement patterns of both species. These geological features—particularly the extensive cave networks—became crucial to survival strategies and subsequently cultural development, with both species learning to thrive in subterranean environments while maintaining surface settlements.
 
 **Itavrnai VII**, an icy world with thin atmosphere and extreme cold, remains theoretically terraformable but practically inhospitable. Unlike the habitable worlds, Itavrnai VII has attracted minimal settlement and development investment, though its existence within the system provides potential for future expansion should technological capabilities and political will align.
+
+### The Neighboring Tikal Star System
+
+Beyond the Itavrnai system itself, nearby space hosts the **Tikal star system**, named by contemporary Union astronomers in recognition of one of Itavrnai II's most significant civilizations—the Queendom of Tikal. This astronomical nomenclature represents one of the few acknowledgments within Union records that civilizations beyond the Pentarchal five deserve celestial recognition, a relatively subtle yet significant honor within the Union's framework of cultural documentation. The naming of the star Tikal serves as a permanent astronomical record that the Queendom and its political evolution deserved attention and respect, positioning the star system as an eternal monument to Vyktan cultural achievement and historical complexity.
 
 ---
 
@@ -311,7 +315,89 @@ Their relationship is not presented as utopian solution to the Union's contradic
 
 ---
 
-## Part VII: Play as Civic Engine—Games, Governance, and the Infinite Sporting Era
+## Part VII: Vikatorūa, The Vyktan Peoples, and the Queendom of Tikal
+
+### Geographic and Political Context: The Forgotten Continent
+
+While Dirakatōna—the massive primary continent of Wyrmveld comprising approximately 70 percent of land area—developed into the industrial and political center of Wyrmfolk civilization under the administration of Kitani, the southern supercontinent of **Vikatorūa** followed a strikingly different trajectory. Occupying approximately 27 percent of Itavrnai II's land area, Vikatorūa remained largely isolated from the planet's dominant power structures for millennia, developing its own sophisticated civilizations and cultures in relative independence from Dirakatōnan influence.
+
+The people who emerged on Vikatorūa—the **Vyktan species**—represent one of Itavrnai II's most distinctive biological achievements, though their origins remain contested between natural evolution and deliberate Wyrmfolk bioengineering. Vyktan are fundamentally humanoid in basic architecture and cognitive capacity, yet distinguish themselves through extraordinary natural diversity in hair color, eye pigmentation, and skin tone. Where baseline humans exhibit relatively constrained variation in these characteristics, Vyktan individuals display hair ranging from deep violet through emerald, turquoise, and amber; eyes that shift through colors that would be impossible in Earth-origin species; and skin tones encompassing hues that suggest their own planet's unique cosmetic chemistry.
+
+This chromatic diversity, far from being mere aesthetic variation, carries profound cultural and political significance within Vyktan civilization. Color patterns often indicate family lineage, regional origin, caste position, and even spiritual or magical attunement—making each individual a living record of their place within complex social hierarchies that differ substantially from Wyrmfolk or other Pentarchal systems.
+
+### The Queendom of Tikal: Historical Development and Royal Succession
+
+The most prominent Vyktan civilization to emerge on Vikatorūa was the **Queendom of Tikal**, named after and eventually extending its influence across much of the continent. The Queendom represents one of the most sophisticated pre-spaceflight societies to develop on Itavrnai II, achieving remarkable advances in agriculture, maritime trade, and administrative governance while remaining effectively isolated from the Wyrmfolk-dominated technological sphere.
+
+The royal dynasty of Tikal is the **House Auralis**, a matriarchal lineage that has governed the Queendom for millennia through a system of female-preference primogeniture—ensuring that succession passes to daughters before sons, with the eldest daughter inheriting supreme authority. This system reflects and reinforces Vyktan cultural values emphasizing maternal lineage, feminine wisdom, and the association of female leadership with spiritual authority and cosmic order.
+
+### The Three Sisters Period: The Fragmentation of Tikal Under Competing Heirs
+
+Contemporary to the Union's expansion across its five habitable worlds, the Queendom of Tikal underwent a period of profound political transformation known historically as the **Three Sisters Period**. The catalyst for this transformation was the death of **Queen Solana IV**, the long-reigning matriarch of House Auralis, who left behind an unprecedented succession crisis: triplet daughters.
+
+The three daughters—**Faelira**, **Caelestia**, and **Erista**—were identical triplets, making determination of birth order impossible. According to Vyktan historical records that have survived to the contemporary era, no witness to their birth could definitively establish which child emerged first, meaning that under strict female-preference primogeniture, no single daughter possessed unquestionable claim to the throne. The three sisters, faced with this unprecedented situation, found themselves unable to reconcile their competing claims through either traditional succession law or peaceful negotiation.
+
+Rather than permit civil war, the Queendom's noble council enacted an emergency succession protocol: the throne would be held in regency by **Excelcius Darikan**, uncle to the three sisters and representative of the cadet branch **House Auralis-Darikan**. Excelcius was charged with governing until such time as the three sisters could reconcile their claims or until a new succession method could be established. What was envisioned as a temporary arrangement gradually solidified into the permanent political structure of the Three Sisters Period, with Excelcius maintaining formal authority while the three sisters and their respective factions competed for influence over Tikal's governance.
+
+This fragmentation of authority—while theoretically temporary—led to a complex political situation wherein Tikal remained nominally unified under Excelcius's regency while effectively fractured into three competing power centers, each dominated by one of the sisters and their supporters. The tension between centralized authority (represented by Regent Excelcius) and factional rivalry (represented by the three sisters) created a dynamic political environment characterized by intricate diplomacy, economic competition, and occasional military conflict between regions controlled by different factions.
+
+### The Neighboring Star System: Tikal (Star) and Cultural Legacy
+
+The nearby star system **Tikal**, orbiting within navigational proximity to the Itavrnai system, was named by contemporary Union astronomers in recognition of the cultural significance of the Queendom of Tikal. This astronomical nomenclature represents one of the few acknowledgments within Union records that Vyktan civilization and the Queendom of Tikal held sufficient historical and cultural importance to warrant celestial recognition—a relatively subtle honor, yet significant within the Union's framework of cultural documentation.
+
+The naming of the star Tikal serves as a permanent astronomical record that the Queendom and its political evolution deserved attention and respect, even as the Vyktan remained largely isolated from the broader Union's direct governance. Within Vyktan tradition, the star Tikal became associated with the ideals of the Queendom itself: the pursuit of wisdom, the balance between competing claims to authority, and the ongoing negotiation between tradition and transformation that defines political existence.
+
+### Wyrmfolk Strategic Bioengineering: The Creation and Isolation of the Vyktan
+
+However, the history of Vyktan civilization presents significant complications when examined through the lens of contemporary Itavran scholarship. Evidence suggests, though remains disputed among historians, that the Vyktan species represents not natural emergence but rather deliberate Wyrmfolk bioengineering—part of a larger strategic project undertaken during the height of Wyrmfolk imperial expansion.
+
+The historical record indicates that Dirakatōna, despite its vast size and strategic location, was home to approximately **thirty-seven distinct pre-spaceflight nation-states** during the period contemporary to Tikal's political flourishing. These Dirakatōnan nations, populated by earlier variants of sentient life and characterized by pre-industrial technologies and social organization, represented a patchwork of competing powers that the unified Wyrmfolk found both difficult to govern and strategically valuable to maintain in a state of controlled division.
+
+The Wyrmfolk, recognizing the potential value of a separate humanoid species that could be monitored and directed through technological means appearing to those species as magical or divine intervention, undertook a deliberate project: the creation of a new sentient species—the Vyktan—and their placement on Vikatorūa with strict technological isolation. The Wyrmfolk established Vikatorūa as a sealed laboratory, deploying surveillance and intervention systems disguised through advanced technology appearing to the local population as divine magic or natural phenomenon.
+
+This represents one of the most ethically contested aspects of Wyrmfolk history—the deliberate creation and isolation of an entire sentient species for purposes of monitoring, study, and strategic control. Contemporary Union scholarship, particularly under NEXXUS DRAKO's emphasis on historical truth-telling, has begun to systematically document this history and its implications for Vyktan autonomy and dignity.
+
+### Medieval Civilization Under Magical Constraint: The Game World Scenario
+
+What emerged on Vikatorūa, across millennia of development, was a sophisticated medieval civilization—the Queendom of Tikal and its neighboring nations—operating under a serf-based social system characterized by rigid hierarchies, feudal organization, and technological stagnation maintained through the Wyrmfolk's technological control mechanisms.
+
+Most significantly, the Vyktan civilization developed a systematic understanding of what they termed "magick"—actually the manifestation of Wyrmfolk technological systems, misunderstood and recontextualized through the lens of local magical and spiritual traditions. Certain Vyktan individuals possessed what appeared to be magical talents: the ability to summon light, to heal wounds, to commune with distant spirits, to perceive hidden truths. These abilities represented, in fact, interfacing with Wyrmfolk surveillance and manipulation systems, though the Vyktan possessed no framework through which to understand this technological reality.
+
+The Queendom of Tikal, during its Three Sisters Period, developed a particular cultural relationship with "magick." The royal family of House Auralis claimed descent from an ancient pact with magical entities (actually Wyrmfolk interdimensional observers), and various noble families developed sophisticated magical traditions, training institutions, and hierarchies based on magical ability. The serf-based society was maintained partly through control of magical knowledge—those who understood and could access magical systems held disproportionate power over those without such access.
+
+### The Haywire Event: Technological Failure and Social Collapse
+
+However, the carefully maintained system of Wyrmfolk control over Vikatorūa's "magical" systems gradually began to fail. Whether through deliberate action, technological degradation, or unforeseen interaction with local Vyktan magical practices, the Wyrmfolk's cloaking and manipulation systems began to malfunction catastrophically.
+
+Local Vyktan experienced what they described as "magick going haywire": magical effects that occurred without summoning, spells that produced unexpected and often devastating consequences, supernatural phenomena that violated all established rules. To the population, it appeared that the cosmic order itself was becoming unstable, that the fundamental laws governing reality were breaking down. In reality, the Wyrmfolk's technological systems were failing in ways that manifested as increasingly erratic magical effects—sometimes appearing to amplify magical power beyond all control, sometimes suppressing it entirely, sometimes producing effects that had never been documented in magical tradition.
+
+The social consequences were profound. The serf-based society, maintained partly through control of magical systems by noble classes, began to fracture as magical power became increasingly unpredictable. Serfs found themselves capable of manifesting magical abilities without training. Noble mages discovered their carefully learned spells producing catastrophic or useless results. The Queendom of Tikal, already fractured by the Three Sisters crisis, found itself facing complete social collapse as the technological foundations of their civilization became visibly unstable.
+
+### The Player's Journey: From "Chosen One" to Truth
+
+Within this collapsing context, certain Vyktan individuals began to manifest extraordinary resistance to the magical haywire—they maintained their ability to interface with Wyrmfolk systems even as those systems degraded. These individuals were termed "chosen ones" by local populations, understood as individuals specially blessed by the cosmic forces that governed magick.
+
+The player character (or characters) in what contemporary Union records describe as a "game world scenario" represents one of these chosen ones—an individual raised within Tikal's rigid medieval society, possibly as a serf or minor noble, who gradually begins to perceive that the magical reality they had been taught was not the totality of truth. Through the course of their journey, this character undertakes a classic heroic quest through a collapsing medieval landscape, gradually assembling pieces of truth about the nature of their world.
+
+The quest culminates in the discovery of a massive **Wyrmfolk installation**—a formerly cloaked technological base hidden within Vikatorūa's geography. This installation, which appears to local populations as an ancient temple or magical nexus, represents the nexus point through which Wyrmfolk monitoring and control of Vyktan civilization has been maintained. As the chosen one reaches this location, the cloaking systems fail entirely, revealing the true nature of the base as advanced technological infrastructure.
+
+Within the installation, the player character encounters documentation, records, and potentially living Wyrmfolk observers who explain the true history: that Vyktan are artificially engineered, that their civilization has been sealed and controlled, that their magical systems are actually technological infrastructure. The revelation functions as the climactic exposition moment—the point at which the player (and through the player, the entire Vyktan civilization) becomes aware of the truth about their own existence and the nature of the systems that have constrained them.
+
+### Contemporary Implications: Truth-Telling and Vyktan Liberation
+
+This historical narrative—the deliberate creation and isolation of Vyktan civilization, the magical systems representing technological control, the haywire failure of systems and eventual revelation of truth—represents precisely the kind of historical trauma and systemic oppression that NEXXUS DRAKO has made central to contemporary Union governance.
+
+The revelation that an entire species was engineered and kept in artificial medieval stasis for the purposes of Wyrmfolk observation and study represents one of the most profound violations of autonomy and dignity documented in Union history. The eventual breakdown of control systems and the forced revelation of truth represents a kind of involuntary liberation—the Vyktan did not choose to learn the truth of their nature but were forced into that knowledge by technological failure.
+
+Contemporary Union policy toward the Vyktan reflects NEXXUS DRAKO's broader philosophy of historical truth-telling and reparative justice. Rather than concealing or minimizing the extent of Wyrmfolk intervention in Vyktan history, the Union has undertaken systematic documentation of exactly what occurred, how long it persisted, and what technological systems were involved. The Vyktan are being offered the opportunity to reclaim their own history, to understand the precise nature of the technological systems that controlled them, and to determine their own future in full knowledge of their own origins.
+
+This represents a profound shift from Wyrmfolk historical practice, wherein such information would have been classified and controlled. Under NEXXUS DRAKO's direction, the truth—however uncomfortable—is treated as the foundation upon which genuine coexistence and liberation can be built. The Vyktan are being invited to join the Itavran Union not as subjects of continued benevolent control but as full participants in the work of truth-telling and collective transformation that defines contemporary Union culture.
+
+The story of the chosen one discovering the truth about Vikatorūa and Vyktan civilization within the Wyrmfolk installation thus serves as a metaphor for the broader process through which the Itavran Union is undergoing fundamental transformation: the revelation of hidden truths, the breakdown of systems of control, and the emergence of possibility for genuine liberation and autonomy across all peoples and species.
+
+---
+
+## Part VIII: Play as Civic Engine—Games, Governance, and the Infinite Sporting Era
 
 ### The Evolution of Play in Post-Scarcity Civilization
 
@@ -347,7 +433,7 @@ This refusal to abandon the personal in favor of the vast represents one of Luna
 
 ---
 
-## Part VIII: The Immortal Six and the Architecture of Shared Leadership
+## Part IX: The Immortal Six and the Architecture of Shared Leadership
 
 ### Six Eternal Stewards of Five Species
 
@@ -376,7 +462,7 @@ The Union, characteristically, has chosen to live _inside_ these questions rathe
 
 ---
 
-## Part IX: The Long Arc of Transformation—Kazumi's Ongoing Work
+## Part X: The Long Arc of Transformation—Kazumi's Ongoing Work
 
 ### From Den Queen to Liberator
 
@@ -394,7 +480,7 @@ In her partnership with Luna Darke, in her leadership of the Aikawa Den, in her 
 
 ---
 
-## Part X: Immortality, Identity, and the Perpetual Beginning
+## Part XI: Immortality, Identity, and the Perpetual Beginning
 
 ### A Life as Ongoing Narrative
 
@@ -414,8 +500,8 @@ In a civilisation of near-immortals bound by games, stories, and shared struggle
 
 ### The Story Continues
 
-The Itavran Union, under the guidance of the Immortal Six and the broader communities that constitute it, continues to evolve. New crises emerge, new possibilities open, old wounds slowly transform into something approaching healing. The story of Luna Darke and Kazumi Aikawa and the five Pentarchal Species remains unfinished—not because it is incomplete, but because completion would mean stagnation, and the Union's defining characteristic is its refusal to ever become entirely finished, entirely resolved, entirely at rest.
+The Itavran Union, under the guidance of the Immortal Six and the broader communities that constitute it, continues to evolve. New crises emerge, new possibilities open, old wounds slowly transform into something approaching healing. The story of Luna Darke and Kazumi Aikawa and the five Pentarchal Species and the Vyktan peoples of Vikatorūa remains unfinished—not because it is incomplete, but because completion would mean stagnation, and the Union's defining characteristic is its refusal to ever become entirely finished, entirely resolved, entirely at rest.
 
-In this ongoing narrative, meaning is not found in final victory but in the persistent work of building liberation, one day, one choice, one story at a time. The Itavran Union, complex and contradictory and forever grappling with the tensions between freedom and constraint, between individual and collective, between the intimate and the institutional, represents not a destination reached but a direction continually chosen, a transformation perpetually renewed, a story that will continue as long as consciousness itself persists to tell it.
+In this ongoing narrative, meaning is not found in final victory but in the persistent work of building liberation, one day, one choice, one story at a time. The Itavran Union, complex and contradictory and forever grappling with the tensions between freedom and constraint, between individual and collective, between the intimate and the institutional, between technological infrastructure and organic community, represents not a destination reached but a direction continually chosen, a transformation perpetually renewed, a story that will continue as long as consciousness itself persists to tell it.
 
-And Luna Darke, in all her forms—as Jeremy Ritter, as Luna Darke, as Nexxus Drako, as Avatar of the Creator, as a woman who still obsessively manages a football club after fifty years—continues to author that story, alongside billions of others, in the ongoing narrative that is the Itavran Union of Sovereign Systems.
+And Luna Darke, in all her forms—as Jeremy Ritter, as Luna Darke, as Nexxus Drako, as Avatar of the Creator, as a woman who still obsessively manages a football club after fifty years, as a being navigating the liminal space between single consciousness and vast superintelligence—continues to author that story, alongside billions of others, in the ongoing narrative that is the Itavran Union of Sovereign Systems.

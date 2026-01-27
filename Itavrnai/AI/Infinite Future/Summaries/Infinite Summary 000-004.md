@@ -1,4 +1,4 @@
-# Infinite Sporting: Plot Summary & Character Profiles
+# Infinite Future: Plot Summary & Character Profiles
 
 ## Five-Chapter Plot Summary
 
