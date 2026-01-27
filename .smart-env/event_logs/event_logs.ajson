@@ -2278,3 +2278,4 @@
 "event_logs:sources:imported": {"key":"sources:imported","ct":617,"first_at":1769463201462,"last_at":1769525171955,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":3210,"first_at":1769463204744,"last_at":1769525171978,"class_name":"EventLog"},
 "event_logs:sources:opened": {"key":"sources:opened","ct":443,"first_at":1769463790453,"last_at":1769525382373,"class_name":"EventLog","event_sources":{"active-leaf-change":443}},
+"event_logs:sources:created": {"key":"sources:created","ct":101,"first_at":1769463793869,"last_at":1769525494923,"class_name":"EventLog","event_sources":{"obsidian:vault.create":101}},
